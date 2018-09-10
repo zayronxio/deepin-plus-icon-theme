@@ -1,0 +1,1 @@
+deepin-plus-icon-theme
