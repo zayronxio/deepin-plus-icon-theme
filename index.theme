@@ -1,0 +1,15 @@
+[Icon Theme]
+Name=Deepin plus
+Inherits=deepin
+Comment=add-on for the icon pack containing deepin os
+Directories=apps/scalable,
+
+
+
+[apps/scalable]
+Size=128
+Context=Apps
+Type=scalable
+
+
+
