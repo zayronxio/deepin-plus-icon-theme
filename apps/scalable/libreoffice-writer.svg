@@ -13,7 +13,7 @@
    viewBox="0 0 128 128"
    version="1.1"
    id="svg59"
-   sodipodi:docname="libreoffice-write.svg"
+   sodipodi:docname="libreoffice3-writer.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata63">
@@ -40,9 +40,9 @@
      inkscape:window-height="732"
      id="namedview61"
      showgrid="false"
-     inkscape:zoom="0.921875"
-     inkscape:cx="68.287752"
-     inkscape:cy="61.819066"
+     inkscape:zoom="3.6875"
+     inkscape:cx="38.853511"
+     inkscape:cy="66.901495"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -301,11 +301,12 @@
      d="m 79,19.5 v 89 0 c 0,1.38071 -1.119288,2.5 -2.5,2.5 h -67 v 0 C 8.119288,111 7,109.88071 7,108.5 v -89 0 C 7,18.119288 8.119288,17 9.5,17 l 67,0 v 0 c 1.380712,0 2.5,1.119288 2.5,2.5 z" />
   <text
      id="text907"
-     y="87.926933"
+     y="-40.073067"
      x="21.453472"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:61.33333206px;line-height:1.25;font-family:'Cocogoose Compressed Trial';-inkscape-font-specification:'Cocogoose Compressed Trial Bold';letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:0.36269429;stroke:none;"
-     xml:space="preserve"><tspan
-       y="87.926933"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:61.33333206px;line-height:1.25;font-family:'Cocogoose Compressed Trial';-inkscape-font-specification:'Cocogoose Compressed Trial Bold';letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:0.3626943;stroke:none"
+     xml:space="preserve"
+     transform="scale(1,-1)"><tspan
+       y="-40.073067"
        x="21.453472"
        id="tspan905"
        sodipodi:role="line">M</tspan></text>
@@ -313,20 +314,22 @@
      id="text911"
      y="86.77639"
      x="21.453472"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:61.33333206px;line-height:1.25;font-family:'Cocogoose Compressed Trial';-inkscape-font-specification:'Cocogoose Compressed Trial Bold';letter-spacing:0px;word-spacing:0px;fill:#2b4459;fill-opacity:1;stroke:none;opacity:0.169;filter:url(#filter941)"
-     xml:space="preserve"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:61.33333206px;line-height:1.25;font-family:'Cocogoose Compressed Trial';-inkscape-font-specification:'Cocogoose Compressed Trial Bold';letter-spacing:0px;word-spacing:0px;opacity:0.169;fill:#2b4459;fill-opacity:1;stroke:none;filter:url(#filter941)"
+     xml:space="preserve"
+     transform="matrix(1,0,0,-1,0,128)"><tspan
        y="86.77639"
        x="21.453472"
        id="tspan909"
        sodipodi:role="line">M</tspan></text>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:61.33333206px;line-height:1.25;font-family:'Cocogoose Compressed Trial';-inkscape-font-specification:'Cocogoose Compressed Trial Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:61.33333206px;line-height:1.25;font-family:'Cocogoose Compressed Trial';-inkscape-font-specification:'Cocogoose Compressed Trial Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
      x="21.453472"
-     y="86.77639"
-     id="text866"><tspan
+     y="-41.22361"
+     id="text866"
+     transform="scale(1,-1)"><tspan
        sodipodi:role="line"
        id="tspan864"
        x="21.453472"
-       y="86.77639">M</tspan></text>
+       y="-41.22361">M</tspan></text>
 </svg>
